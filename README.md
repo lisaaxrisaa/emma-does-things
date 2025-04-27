@@ -5,7 +5,7 @@ Built with React to practice frontend development, animations, game logic, and U
 
 ---
 
-## Current Features (and Growing!)
+## Current Features (Growing Over Time!)
 
 - **Click for Emma** — Click a button to see random adorable photos of Emma.
 - **Emma Mood Generator** — (Coming soon!)
@@ -36,7 +36,11 @@ Built with React to practice frontend development, animations, game logic, and U
 
 ## Demo
 
-> ![Screenshot](https://i.imgur.com/rtDEvlS.png)
+https://emma-does-things.vercel.app/
+
+<p align="center">
+  <img src="https://i.imgur.com/rtDEvlS.png" alt="Screenshot of Emma Does Things Homepage" width="600"/>
+</p>
 
 ---
 
@@ -45,7 +49,7 @@ Built with React to practice frontend development, animations, game logic, and U
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/emma-does-things.git
+git clone https://github.com/lisaaxrisaa/emma-does-things.git
 ```
 
 2. Install dependencies:
