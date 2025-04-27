@@ -1,0 +1,50 @@
+.eightball-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.emma-crystal-wrapper {
+  position: relative;
+  width: 1000px;
+  height: 800px;
+  margin: 2rem auto;
+  background-image: url('/img/emmacrystalball.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.answer-overlay {
+  position: absolute;
+  top: 54%;
+  left: 38%;
+  transform: translate(-50%, -50%);
+  width: 166px;
+  height: 162px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  padding: 0.5rem;
+  border-radius: 50%;
+  background: rgba(172, 172, 172, 0.3);
+  /* backdrop-filter: blur(2px); */
+}
+
+.eightball-button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  background-color: #000000;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.eightball-button:hover {
+  background-color: #483d8b;
+}

@@ -1,0 +1,54 @@
+.confession-header {
+  color: black;
+}
+
+.confession-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.confession-textarea {
+  width: 80%;
+  height: 150px;
+  padding: 1rem;
+  border-radius: 10px;
+  border: 2px solid #ccc;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  background-color: white;
+  color: #595959;
+}
+
+.confession-button {
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+  background-color: #000000;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.confession-button:hover {
+  background-color: #483d8b;
+}
+
+.confession-response {
+  margin-top: 2rem;
+  font-style: italic;
+  color: #333;
+}
+
+.confession-response blockquote {
+  background-color: #f9f9f9;
+  padding: 1rem;
+  margin-top: 1rem;
+  border-left: 4px solid #6a5acd;
+  border-radius: 8px;
+}
+
+.emma-reaction-image {
+  width: 500px;
+  border-radius: 20px;
+}

@@ -1,0 +1,27 @@
+.click-header {
+  color: black;
+}
+
+.click-for-emma-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.click-button {
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.emma-image {
+  width: 500px;
+  border-radius: 20px;
+}
+
+.emma-caption {
+  margin-top: 1rem;
+  font-style: italic;
+  color: black;
+  font-size: 30px;
+}
