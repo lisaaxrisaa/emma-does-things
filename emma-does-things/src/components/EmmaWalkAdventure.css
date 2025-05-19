@@ -1,0 +1,45 @@
+.walk-adventure-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.5rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.adventure-text {
+  flex: 1;
+  min-width: 300px;
+  text-align: center;
+}
+
+.adventure-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.adventure-image img {
+  max-width: 100%;
+  height: auto;
+}
+
+.step-content {
+  width: 100%;
+}
+
+.step-content button {
+  margin: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  border-radius: 10px;
+  border: 2px solid #000;
+  cursor: pointer;
+  background-color: white;
+  transition: background 0.3s;
+}
+
+.step-content button:hover {
+  background-color: #eee;
+}

@@ -5,17 +5,14 @@ import './Home.css';
 const Home = () => {
   const projects = [
     {
-      // title: 'Click for Emma',
       id: 'click-for-emma',
       background: '/img/emmacard1.png',
     },
     {
-      // title: 'Emma Mood Generator',
       id: 'eight-ball',
       background: '/img/eightball.png',
     },
     {
-      // title: 'Code Confession Booth',
       id: 'code-confession-booth',
       background: '/img/emmacard2.png',
     },
@@ -24,22 +21,18 @@ const Home = () => {
       background: '/img/emmatreat.png',
     },
     {
-      // title: "coming soon",
+      id: 'emma-walk-adventure',
+      background: '/img/adventure.png',
+    },
+    {
       id: 'emma-packing-list',
       background: '/img/comingsoon.png',
     },
     {
-      // title: "coming soon",
       id: 'emma-packing-list',
       background: '/img/comingsoon.png',
     },
     {
-      // title: "coming soon",
-      id: 'emma-packing-list',
-      background: '/img/comingsoon.png',
-    },
-    {
-      // title: "coming soon",
       id: 'emma-packing-list',
       background: '/img/comingsoon.png',
     },

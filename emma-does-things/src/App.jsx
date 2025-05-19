@@ -5,6 +5,7 @@ import ClickForEmma from './components/ClickForEmma';
 import CodeConfessionBooth from './components/CodeConfession';
 import EmmaEightBall from './components/EightBall';
 import EmmaTreatCatch from './components/EmmaTreatCatch';
+import EmmaWalkAdventure from './components/EmmaWalkAdventure';
 
 function App() {
   return (
@@ -19,6 +20,8 @@ function App() {
           />
           <Route path="/eight-ball" element={<EmmaEightBall />} />
           <Route path="/emma-treat-catch" element={<EmmaTreatCatch />} />
+
+          <Route path="/emma-walk-adventure" element={<EmmaWalkAdventure />} />
         </Routes>
       </Router>
       <Footer />
